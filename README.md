@@ -1,6 +1,6 @@
 # Hi there, I'm Metin! 👋
 
-I am a Data Science student passionate about turning raw data into meaningful insights. I love exploring statistical models, mastering machine learning pipelines, and building interactive visualizations.
+Aspiring Data Scientist with a focus on building a solid foundation in data manipulation and visualization. I primarily work with Python, utilizing Pandas and NumPy for data cleaning and transformation. I enjoy the process of turning datasets into interactive stories using Plotly. Currently, I am dedicated to honing my EDA skills and expanding my toolkit into statistical modeling and machine learning
 
 ### 🛠 Tech Stack & Tools
 <p align="left">
