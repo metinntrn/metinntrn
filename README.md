@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Metin! 👋
 
-<!--
-**metinntrn/metinntrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science student passionate about turning raw data into meaningful insights. I love exploring statistical models, mastering machine learning pipelines, and building interactive visualizations.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Learning Path
+*   **Data Manipulation & EDA:** Refining my skills in Pandas and advanced data cleaning.
+*   **Visualization:** Creating interactive dashboards with Plotly.
+*   **Statistics:** Strengthening my mathematical foundations for AI.
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=metinntrn&show_icons=true&theme=radical)
+
+
+
+### ⚡ Fun Fact
+*   I'm currently exploring Spotify datasets to find patterns in musical genres! 🎵
