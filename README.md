@@ -16,11 +16,3 @@ Aspiring Data Scientist with a focus on building a solid foundation in data mani
 *   **Data Manipulation & EDA:** Refining my skills in Pandas and advanced data cleaning.
 *   **Visualization:** Creating interactive dashboards with Plotly.
 *   **Statistics:** Strengthening my mathematical foundations for AI.
-
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=metinntrn&show_icons=true&theme=radical)
-
-
-
-### ⚡ Fun Fact
-*   I'm currently exploring Spotify datasets to find patterns in musical genres! 🎵
