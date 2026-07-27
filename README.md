@@ -1,14 +1,14 @@
 # Hi there, I'm Metin! 👋
 
-I'm an aspiring **Data Scientist** passionate about transforming raw data into meaningful insights through data analysis, visualization, and interactive dashboards.
+I'm an aspiring **Data Scientist** passionate about transforming raw data into meaningful insights through analysis, visualization, and interactive dashboards.
 
-My primary focus is on **Python**, using **Pandas** and **NumPy** to clean, preprocess, and analyze real-world datasets. I enjoy creating interactive visualizations with **Plotly** and building analytical dashboards with **Streamlit**.
+I primarily work with **Python**, leveraging **Pandas** and **NumPy** to clean, preprocess, and analyze real-world datasets. I also enjoy building interactive visualizations with **Plotly** and developing analytical dashboards using **Streamlit**.
 
-Currently, I'm strengthening my foundation in **Exploratory Data Analysis (EDA)** while expanding my knowledge in **Statistics**, **Machine Learning**, and **SQL** to become a well-rounded data professional.
+Currently, I'm strengthening my skills in **Exploratory Data Analysis (EDA)** while expanding my knowledge of **Statistics**, **SQL**, and **Machine Learning** to build a solid foundation in data science.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Programming
 <p>
@@ -33,38 +33,55 @@ Currently, I'm strengthening my foundation in **Exploratory Data Analysis (EDA)*
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-- 📊 Advanced Exploratory Data Analysis (EDA)
+- 📊 Exploratory Data Analysis (EDA)
 - 🧹 Data Cleaning & Data Profiling
-- 🗄️ SQL for Data Analysis
 - 📈 Statistics for Data Science
+- 🗄️ SQL for Data Analysis
 - 🤖 Machine Learning Fundamentals
 
 ---
 
-## 🎯 Current Goals
+# 🎯 Current Goals
 
 - Build end-to-end data science projects
+- Develop production-style data cleaning pipelines
 - Create interactive dashboards with Streamlit
-- Strengthen statistical foundations
-- Learn SQL for analytical workflows
-- Develop machine learning projects using real-world datasets
+- Strengthen statistical and analytical thinking
+- Build machine learning projects using real-world datasets
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-- 📊 HR Analytics Dashboard (https://github.com/metinntrn/data-science/tree/main/EDA/hr-analytics-dashboard)
+### 📊 Dashboards
 
-- 📱 Apple Products Pricing Dashboard (https://github.com/metinntrn/data-science/tree/main/EDA/dashboard_eda_project)
-  
-- 🤖 LLM Usage Dashboard (https://github.com/metinntrn/data-science/tree/main/EDA/dashboard_project_2_LLM_Usage_Dashboard)
+- [HR Analytics Dashboard](https://github.com/metinntrn/data-science/tree/main/EDA/hr-analytics-dashboard)
+- [Apple Products Pricing Dashboard](https://github.com/metinntrn/data-science/tree/main/EDA/dashboard_eda_project)
+- [LLM Usage Dashboard](https://github.com/metinntrn/data-science/tree/main/EDA/dashboard_project_2_LLM_Usage_Dashboard)
 
-- 🧹 Data Cleaning Pipelines (https://github.com/metinntrn/data-science/tree/main/data_cleaning)
-  
-- 📈 Exploratory Data Analysis Projects (https://github.com/metinntrn/data-science/tree/main/EDA)
+### 🧹 Data Cleaning
+
+- [Data Cleaning Projects](https://github.com/metinntrn/data-science/tree/main/data_cleaning)
+
+### 📈 Exploratory Data Analysis
+
+- [EDA Projects](https://github.com/metinntrn/data-science/tree/main/EDA)
 
 ---
 
-> *"Turning raw data into meaningful insights, one project at a time."*
+# 🌱 Next Steps
+
+I'm continuously expanding this portfolio with projects in:
+
+- Machine Learning
+- Feature Engineering
+- Time Series Analysis
+- SQL Analytics
+- Data Visualization
+- Predictive Modeling
+
+---
+
+> **"Turning raw data into meaningful insights, one project at a time."**
