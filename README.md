@@ -1,4 +1,4 @@
-# Hi there, I'm Metin! 👋
+<img width="1706" height="473" alt="image" src="https://github.com/user-attachments/assets/784ba8e7-057b-43eb-99d8-f41a75e14d5b" /># Hi there, I'm Metin! 👋
 
 I'm an aspiring **Data Scientist** passionate about transforming raw data into meaningful insights through data analysis, visualization, and interactive dashboards.
 
@@ -56,10 +56,14 @@ Currently, I'm strengthening my foundation in **Exploratory Data Analysis (EDA)*
 ## 📂 Featured Projects
 
 - 📊 HR Analytics Dashboard (https://github.com/metinntrn/data-science/tree/main/EDA/hr-analytics-dashboard)
-- 📱 Apple Products Pricing Dashboard
-- 🤖 LLM Usage Dashboard
-- 🧹 Data Cleaning Pipelines
-- 📈 Exploratory Data Analysis Projects
+
+- 📱 Apple Products Pricing Dashboard (https://github.com/metinntrn/data-science/tree/main/EDA/dashboard_eda_project)
+  
+- 🤖 LLM Usage Dashboard (https://github.com/metinntrn/data-science/tree/main/EDA/dashboard_project_2_LLM_Usage_Dashboard)
+
+- 🧹 Data Cleaning Pipelines (https://github.com/metinntrn/data-science/tree/main/data_cleaning)
+  
+- 📈 Exploratory Data Analysis Projects (https://github.com/metinntrn/data-science/tree/main/EDA)
 
 ---
 
