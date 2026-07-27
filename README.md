@@ -1,4 +1,4 @@
-<img width="1706" height="473" alt="image" src="https://github.com/user-attachments/assets/784ba8e7-057b-43eb-99d8-f41a75e14d5b" /># Hi there, I'm Metin! 👋
+# Hi there, I'm Metin! 👋
 
 I'm an aspiring **Data Scientist** passionate about transforming raw data into meaningful insights through data analysis, visualization, and interactive dashboards.
 
