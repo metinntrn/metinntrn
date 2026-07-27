@@ -55,7 +55,7 @@ Currently, I'm strengthening my foundation in **Exploratory Data Analysis (EDA)*
 
 ## 📂 Featured Projects
 
-- 📊 HR Analytics Dashboard (EDA/hr-analytics-dashboard)
+- 📊 HR Analytics Dashboard (https://github.com/metinntrn/data-science/tree/main/EDA/hr-analytics-dashboard)
 - 📱 Apple Products Pricing Dashboard
 - 🤖 LLM Usage Dashboard
 - 🧹 Data Cleaning Pipelines
