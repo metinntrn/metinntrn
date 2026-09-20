@@ -40,8 +40,6 @@ Currently, I'm strengthening my skills in **Exploratory Data Analysis (EDA)** wh
 
 # 📚 Currently Learning
 
-- 📊 Exploratory Data Analysis (EDA)
-- 🧹 Data Cleaning & Data Profiling
 - 📈 Statistics for Data Science
 - 🗄️ SQL for Data Analysis
 - 🤖 Machine Learning Fundamentals
