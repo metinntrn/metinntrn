@@ -1,10 +1,10 @@
 # Hi there, I'm Metin! 👋
 
-I'm an aspiring **Data Scientist** passionate about transforming raw data into meaningful insights through analysis, visualization, and interactive dashboards.
+I'm an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights through analysis, visualization, and interactive dashboards.
 
 I primarily work with **Python**, leveraging **Pandas** and **NumPy** to clean, preprocess, and analyze real-world datasets. I also enjoy building interactive visualizations with **Plotly** and developing analytical dashboards using **Streamlit**.
 
-Currently, I'm strengthening my skills in **Exploratory Data Analysis (EDA)** while expanding my knowledge of **Statistics**, **SQL**, and **Machine Learning** to build a solid foundation in data science.
+Currently, I'm strengthening my skills in **Exploratory Data Analysis (EDA)** while expanding my knowledge of **Statistics**, **SQL**, and **Machine Learning** to build a solid foundation in data analytics.
 
 ---
 
@@ -19,6 +19,11 @@ Currently, I'm strengthening my skills in **Exploratory Data Analysis (EDA)** wh
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+### Database
+<p>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
 ### Data Visualization
@@ -45,7 +50,7 @@ Currently, I'm strengthening my skills in **Exploratory Data Analysis (EDA)** wh
 
 # 🎯 Current Goals
 
-- Build end-to-end data science projects
+- Build end-to-end data analytics projects
 - Develop production-style data cleaning pipelines
 - Create interactive dashboards with Streamlit
 - Strengthen statistical and analytical thinking
