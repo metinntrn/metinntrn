@@ -78,12 +78,12 @@ Currently, I'm strengthening my skills in **Exploratory Data Analysis (EDA)** wh
 
 I'm continuously expanding this portfolio with projects in:
 
-- Machine Learning
+
 - Feature Engineering
 - Time Series Analysis
 - SQL Analytics
 - Data Visualization
-- Predictive Modeling
+- Data Cleaning
 
 ---
 
