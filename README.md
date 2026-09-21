@@ -60,7 +60,7 @@ Currently, I'm strengthening my skills in **Exploratory Data Analysis (EDA)** wh
 
 ### 📊 Dashboards
 
-- [HR Analytics Dashboard](https://github.com/metinntrn/data-analyst-portfolio/tree/main/EDA/hr-analytics-dashboard)
+- [HR Analytics Dashboard](EDA/hr-analytics-dashboard)
 - [Apple Products Pricing Dashboard](https://github.com/metinntrn/data-analyst-portfolio/tree/main/EDA/dashboard_eda_project)
 - [LLM Usage Dashboard](https://github.com/metinntrn/data-analyst-portfolio/tree/main/EDA/dashboard_project_2_LLM_Usage_Dashboard)
 
