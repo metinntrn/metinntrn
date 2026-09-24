@@ -1,90 +1,131 @@
-# Hi there, I'm Metin! 👋
+# Hi, I'm Metin Turan 👋
 
-I'm an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights through analysis, visualization, and interactive dashboards.
+### 📊 Aspiring Data Analyst | Python • SQL • Data Visualization
 
-I primarily work with **Python**, leveraging **Pandas** and **NumPy** to clean, preprocess, and analyze real-world datasets. I also enjoy building interactive visualizations with **Plotly** and developing analytical dashboards using **Streamlit**.
+I’m focused on developing my skills in **Data Analysis** and building practical projects using Python, SQL, statistics, and data visualization.
 
-Currently, I'm strengthening my skills in **Exploratory Data Analysis (EDA)** while expanding my knowledge of **Statistics**, **SQL**, and **Machine Learning** to build a solid foundation in data analytics.
-
----
-
-# 🛠 Tech Stack
-
-### Programming
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### Data Analysis
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-### Database
-<p>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
-### Data Visualization
-<p>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
-
-### Dashboard Development
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p>
+I enjoy working with data to discover patterns, identify insights, and turn raw datasets into meaningful information that can support better decisions.
 
 ---
 
-# 📚 Currently Learning
+## 🛠️ Skills
 
-- 📈 Statistics for Data Science
-- 🗄️ SQL for Data Analysis
-- 🤖 Machine Learning Fundamentals
+### 📊 Data Analysis
 
----
+* Python
+* Pandas
+* NumPy
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Transformation
+* Data Visualization
+* Statistical Analysis
 
-# 🎯 Current Goals
+### 📈 Data Visualization
 
-- Build end-to-end data analytics projects
-- Develop production-style data cleaning pipelines
-- Create interactive dashboards with Streamlit
-- Strengthen statistical and analytical thinking
-- Build machine learning projects using real-world datasets
+* Matplotlib
+* Seaborn
+* Dashboard Development
+* Data Storytelling
 
----
+### 🗄️ SQL & Databases
 
-# 📂 Featured Projects
+* SQL
+* Data Filtering & Aggregation
+* JOINs
+* Subqueries
+* GROUP BY
+* Window Functions
+* Relational Databases
 
-### 📊 Dashboards
+### 📐 Statistics
 
-- [HR Analytics Dashboard](https://github.com/metinntrn/metin-data-analytics/tree/main/EDA/hr-analytics-dashboard)
-- [Apple Products Pricing Dashboard](https://github.com/metinntrn/metin-data-analytics/tree/main/EDA/dashboard_eda_project)
-- [LLM Usage Dashboard](https://github.com/metinntrn/metin-data-analytics/tree/main/EDA/dashboard_project_2_LLM_Usage_Dashboard)
-
-### 🧹 Data Cleaning
-
-- [Data Cleaning Projects](https://github.com/metinntrn/metin-data-analytics/tree/main/data_cleaning)
-
-### 📈 Exploratory Data Analysis
-
-- [EDA Projects](https://github.com/metinntrn/metin-data-analytics/tree/main/EDA)
-
----
-
-# 🌱 Next Steps
-
-I'm continuously expanding this portfolio with projects in:
-
-
-- Feature Engineering
-- Time Series Analysis
-- SQL Analytics
-- Data Visualization
-- Data Cleaning
+* Descriptive Statistics
+* Probability
+* Distributions
+* PMF, PDF & CDF
+* Mean, Median & Mode
+* Variance & Standard Deviation
+* Correlation
+* Hypothesis Testing
 
 ---
 
-> **"Turning raw data into meaningful insights, one project at a time."**
+## 🚀 What I'm Working On
+
+* Strengthening my Python data analysis skills
+* Improving SQL and database querying
+* Developing my understanding of statistics
+* Practicing EDA and data visualization
+* Building interactive dashboards
+* Working on real-world datasets
+* Creating portfolio projects that demonstrate practical analytical skills
+
+---
+
+## 📂 Projects
+
+### 📊 Data Analysis Projects
+
+Projects focused on:
+
+* Data cleaning
+* Exploratory Data Analysis
+* Statistical analysis
+* Data visualization
+* Finding trends and patterns
+* Generating actionable insights
+
+### 📈 Dashboard Projects
+
+Interactive dashboards designed to transform datasets into clear and understandable visual insights.
+
+### 🐍 Python Projects
+
+Python-based projects for data processing, analysis, automation and visualization.
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become a **Data Analyst** who can combine:
+
+**Python + SQL + Statistics + Data Visualization + Business Thinking**
+
+to transform raw data into useful insights and support data-driven decision making.
+
+---
+
+## 🔗 Connect With Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/metin-turan-3a8b00438](https://www.linkedin.com/in/metin-turan-3a8b00438)
+* 📧 **Email:** [turan.ahmetmetin0@gmail.com](mailto:turan.ahmetmetin0@gmail.com)
+* 💻 **GitHub:** [github.com/metinntrn](https://github.com/metinntrn)
+
+---
+
+## 📌 Currently Learning
+
+```text
+Python
+   ↓
+Pandas & NumPy
+   ↓
+Data Cleaning
+   ↓
+EDA
+   ↓
+Statistics
+   ↓
+Data Visualization
+   ↓
+SQL
+   ↓
+Dashboard Development
+   ↓
+Portfolio Projects
+```
+
+---
+
+⭐ Thanks for visiting my profile!
