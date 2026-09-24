@@ -102,29 +102,7 @@ to transform raw data into useful insights and support data-driven decision maki
 * 📧 **Email:** [turan.ahmetmetin0@gmail.com](mailto:turan.ahmetmetin0@gmail.com)
 * 💻 **GitHub:** [github.com/metinntrn](https://github.com/metinntrn)
 
----
 
-## 📌 Currently Learning
-
-```text
-Python
-   ↓
-Pandas & NumPy
-   ↓
-Data Cleaning
-   ↓
-EDA
-   ↓
-Statistics
-   ↓
-Data Visualization
-   ↓
-SQL
-   ↓
-Dashboard Development
-   ↓
-Portfolio Projects
-```
 
 ---
 
