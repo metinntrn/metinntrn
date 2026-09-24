@@ -1,4 +1,4 @@
-# Hi, I'm Metin Turan 👋
+# Hi, I'm Ahmet Metin Turan 👋
 
 ### 📊 Aspiring Data Analyst | Python • SQL • Data Visualization
 
