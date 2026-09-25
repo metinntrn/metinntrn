@@ -55,7 +55,7 @@ Interactive dashboards that turn raw data into clear, understandable visual stor
 ### 🐍 Python Projects
 Scripts and tools for data processing, analysis, automation, and visualization.
 
-> 📌 *Pin your best 3–4 repos on your GitHub profile so they show up above this section.*
+> 📌 *Editing...*
 
 ---
 
