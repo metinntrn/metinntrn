@@ -25,6 +25,7 @@ I enjoy working with data to discover patterns, identify insights, and turn raw 
 
 * Matplotlib
 * Seaborn
+* plotly
 * Dashboard Development
 * Data Storytelling
 
