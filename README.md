@@ -71,10 +71,7 @@ to turn raw data into insight that drives real decisions — and to keep growing
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=metinntrn&show_icons=true&theme=default&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metinntrn&layout=compact&theme=default" width="42%" />
-</p>
+
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=metinntrn&theme=default" width="60%" />
